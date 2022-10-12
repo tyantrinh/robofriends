@@ -5,7 +5,7 @@ import { robots } from '../robots';
 import SearchBox from '../components/SearchBox';
 import './App.css';
 import Scroll from '../components/Scroll';
-import ErorrBoundary from "../components/ErrorBoundary";
+import ErrorBoundary from "../components/ErrorBoundary";
 
 
 class App extends Component {
